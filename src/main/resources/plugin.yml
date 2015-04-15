@@ -1,0 +1,8 @@
+main: com.gmail.thundrrok1.StackPotions.StackPotions
+name: StackPotions
+version: 1.0
+author: wristdirect modded by ThundrRok
+description: Allows for stacking of potions, and disables potion throwing while stacked.
+commands:
+  potion: 
+    aliases: [pot]

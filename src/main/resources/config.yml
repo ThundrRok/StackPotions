@@ -1,0 +1,4 @@
+#brewStackedPotions - If false, users cannot brew stacked potions.
+#throwStackedPotions - If false, users cannot throw stacked potions.
+brewStackedPotions: false
+throwStackedPotions: true
